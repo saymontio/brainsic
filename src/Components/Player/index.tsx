@@ -85,7 +85,7 @@ export function Player() {
                 </div>
             ) : (
                 <div className={styles.emptyPlayer}>
-                    <strong>Selecione um podcast para ouvir</strong>
+                    <strong>Selecione uma música para ouvir</strong>
                 </div>
             )}
 

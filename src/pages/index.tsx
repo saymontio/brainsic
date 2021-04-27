@@ -78,7 +78,7 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
           <thead>
             <tr>
               <th></th>
-              <th>Podcast</th>
+              <th>Música</th>
               <th>Integrantes</th>
               <th>Data</th>
               <th>Duração</th>
